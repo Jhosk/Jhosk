@@ -32,6 +32,12 @@ My experience sits at the intersection of **business intelligence, supply chain,
 
 ## Featured projects
 
+### [Pallet Load Optimizer](https://github.com/Jhosk/pallet-load-optimizer)
+
+A configurable Python allocation engine for warehouse and fulfillment planning, with synthetic data, validation, utilization metrics, a command-line interface, and automated tests.
+
+`Python` `CSV` `Optimization` `Warehouse Analytics` `Unit Testing`
+
 ### Warehouse Operations Analytics · Planned
 
 An end-to-end analytics project for inbound receiving, inventory accuracy, processing time, and operational exceptions.
