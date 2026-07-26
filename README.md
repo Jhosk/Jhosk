@@ -50,11 +50,11 @@ A reproducible forecasting workflow for demand planning, stock-risk analysis, an
 
 `Python` `Pandas` `scikit-learn` `Time Series` `Plotly`
 
-### Amazon FBA Cost Analytics · Planned
+### [Amazon FBA Fulfillment Analytics](https://github.com/Jhosk/amazon-fba-fulfillment-analytics)
 
-A cost and shipment analysis toolkit designed to reveal fee drivers, shipment inefficiencies, and savings opportunities.
+A tested Python pipeline for FBA picking reports, box planning, expiry tracking, and fulfillment-efficiency metrics using synthetic data.
 
-`Python` `SQL` `Power BI` `E-commerce Analytics`
+`Python` `CSV` `Data Pipelines` `Amazon FBA` `Unit Testing`
 
 ### AI Job Application Assistant · Planned
 
