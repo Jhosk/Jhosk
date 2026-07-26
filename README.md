@@ -38,11 +38,11 @@ A configurable Python allocation engine for warehouse and fulfillment planning, 
 
 `Python` `CSV` `Optimization` `Warehouse Analytics` `Unit Testing`
 
-### Warehouse Operations Analytics · Planned
+### [Warehouse Operations Analytics](https://github.com/Jhosk/warehouse-operations-analytics)
 
-An end-to-end analytics project for inbound receiving, inventory accuracy, processing time, and operational exceptions.
+A tested Python and SQL case study for PO reconciliation, receiving accuracy, operational exceptions, vendor performance, dock-to-stock time, and Power BI-ready outputs.
 
-`Python` `SQL` `Power BI` `Pandas` `Data Modeling`
+`Python` `SQL` `Power BI` `KPI Design` `Unit Testing`
 
 ### Supply Chain Forecasting · Planned
 
