@@ -1,4 +1,4 @@
-# Hi, I'm Jim Rodriguez 👋
+# Hi, I'm Jim 👋
 
 ### Business Intelligence & Operations Analytics Specialist
 
